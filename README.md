@@ -1,1 +1,1 @@
-# Vaccination-Certification-Extractor
+This code will returns the valid data from the vaccination certificate which will used in airport and visa verification.I used PdfPlumber and os module from Python to obtain the data from the pdf source. This automation will reduce the timing of fetching data manually from the pdf for verification officers.
